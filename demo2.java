@@ -1,7 +1,7 @@
 class prog{
 
-      voin int(int a,intb){
-
-      
+      void int(int a,intb){
+       
+      Sysout,out.println("Satish");
           }
 }
