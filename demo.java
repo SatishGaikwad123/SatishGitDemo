@@ -1,7 +1,8 @@
-class test{
+class Test{
 
     public static void main(String args[]){
-   sysout
+       
+System.out.println("Hello");
           
     }
 }
